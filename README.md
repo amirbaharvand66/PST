@@ -1,14 +1,11 @@
 # PST
-Plate and Shell Theory
+Theory of Plates and Shells
 
-My repository for solution of some problems in 
+My repository for solutions of some problems from 
 
 **Reddy, J.N. (2006). Theory and Analysis of Elastic Plates and Shells (2nd ed.). CRC Press. https://doi.org/10.1201/9780849384165**
 
-Codes will be added gradually as it takes some time to write the relevant comments.
 
-## Installation
-Coded with Maple 2019. Required no installation.
+*Coded with Maple 2019.*
 
-## Contributor(s)
-[Amir Baharvand](ambahar@outlook.com)
+P.S. : Codes will be added gradually as it takes some time to write the relevant comments.

@@ -88,8 +88,8 @@
     <Task-category name="&lt;default&gt;"/>
 </Task-table>
 <Task/>
-<Group labelreference="L15" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">#problem 7.3 page 293</Text-field>
+<Group labelreference="L18" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal"><Font executable="true">Problem 7.3 page 293</Font></Text-field>
 </Input>
 </Group>
 <Group labelreference="L1" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">

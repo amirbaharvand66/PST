@@ -88,51 +88,51 @@
     <Task-category name="&lt;default&gt;"/>
 </Task-table>
 <Task/>
-<Group labelreference="L174" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">#problem 5.7 page 213</Text-field>
+<Group labelreference="L192" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">Problem 5.7 page 213</Text-field><Text-field style="Text" layout="Normal">In the following, d is the same as D</Text-field>
 </Input>
 </Group>
-<Group labelreference="L1" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Group labelreference="L187" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">restart:</Text-field>
 </Input>
 </Group>
-<Group hide-input="false" labelreference="L3" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal">in the following, d is the same as D</Text-field><Text-field style="Text" layout="Normal">by setting q__0 = 0 in eq(5.3.47)</Text-field><Text-field prompt="&gt; " style="Maple Input" layout="Normal">q__0 := 0</Text-field>
+<Group hide-input="false" labelreference="L188" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">By setting q__0 = 0 in eq(5.3.47)</Text-field><Text-field prompt="&gt; " style="Maple Input" layout="Normal">q__0 := 0</Text-field>
 </Input>
 <Output><Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYmLUklbXN1YkdGJDYmLUkjbWlHRiQ2JVEicUYnLyUnaXRhbGljR1EldHJ1ZUYnLyUsbWF0aHZhcmlhbnRHUSdpdGFsaWNGJy1GLzYlUSIwRidGMkY1LyUvc3Vic2NyaXB0c2hpZnRHRjovSSttc2VtYW50aWNzR0YkUSdhdG9taWNGJy1JI21vR0YkNi1RKSZBc3NpZ247RicvRjZRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0ZILyUpc3RyZXRjaHlHRkgvJSpzeW1tZXRyaWNHRkgvJShsYXJnZW9wR0ZILyUubW92YWJsZWxpbWl0c0dGSC8lJ2FjY2VudEdGSC8lJ2xzcGFjZUdRLDAuMjc3Nzc3OGVtRicvJSdyc3BhY2VHRlctSSNtbkdGJDYkRjpGREZE">LV9JLFR5cGVzZXR0aW5nRzYkJSpwcm90ZWN0ZWRHSShfc3lzbGliRzYiSSxtcHJpbnRzbGFzaEdGKDYkNyM+SSVxX18wR0YoIiIhNyNGLg==</Equation></Text-field>
 </Output>
 </Group>
-<Group hide-input="false" labelreference="L168" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Group hide-input="false" labelreference="L185" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">q := r -&gt; q__0 + (q__1 - q__0) / a * r</Text-field>
 </Input>
 <Output><Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEicUYnLyUnaXRhbGljR1EldHJ1ZUYnLyUsbWF0aHZhcmlhbnRHUSdpdGFsaWNGJy1JI21vR0YkNi1RKSZBc3NpZ247RicvRjNRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0Y9LyUpc3RyZXRjaHlHRj0vJSpzeW1tZXRyaWNHRj0vJShsYXJnZW9wR0Y9LyUubW92YWJsZWxpbWl0c0dGPS8lJ2FjY2VudEdGPS8lJ2xzcGFjZUdRLDAuMjc3Nzc3OGVtRicvJSdyc3BhY2VHRkwtRiw2JVEickYnRi9GMi1GNjYtUSYmbWFwO0YnRjlGO0Y+L0ZBRjFGQkZERkZGSEZKRk0tRiM2Ji1JJW1zdWJHRiQ2JkYrLUYsNiVRIjBGJ0YvRjIvJS9zdWJzY3JpcHRzaGlmdEdGZ24vSSttc2VtYW50aWNzR0YkUSdhdG9taWNGJy1GNjYtUScmcGx1cztGJ0Y5RjtGPkZARkJGREZGRkgvRktRLDAuMjIyMjIyMmVtRicvRk5GYW8tSSZtZnJhY0dGJDYoLUYjNiYtSShtZmVuY2VkR0YkNiQtRiM2Ji1GWTYmRistRiw2JVEiMUYnRi9GMkZobkZqbi1GNjYtUSgmbWludXM7RidGOUY7Rj5GQEZCRkRGRkZIRmBvRmJvRlhGOUY5LUY2Ni1RMSZJbnZpc2libGVUaW1lcztGJ0Y5RjtGPkZARkJGREZGRkgvRktRJjAuMGVtRicvRk5GaXBGT0Y5LUYsNiVRImFGJ0YvRjIvJS5saW5ldGhpY2tuZXNzR0ZhcC8lK2Rlbm9tYWxpZ25HUSdjZW50ZXJGJy8lKW51bWFsaWduR0ZicS8lKWJldmVsbGVkR0Y9RjlGOQ==">LV9JLFR5cGVzZXR0aW5nRzYkJSpwcm90ZWN0ZWRHSShfc3lzbGliRzYiSSxtcHJpbnRzbGFzaEdGKDYkNyM+SSJxR0YoZio2I0kickdGKEYoNiRJKW9wZXJhdG9yR0YoSSZhcnJvd0dGKEYoLCZJJXFfXzBHRigiIiIqKCwmSSVxX18xR0YoRjZGNSEiIkY2SSJhR0YoRjo5JEY2RjZGKEYoRig3I0Yu</Equation></Text-field>
 </Output>
 </Group>
-<Group hide-input="false" labelreference="L159" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Group hide-input="false" labelreference="L189" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field style="Text" layout="Normal">c__2 and c__4 can be calculated from eq(5.3.49) by setting q__0 = 0 as well</Text-field><Text-field prompt="&gt; " style="Maple Input" layout="Normal">c__2 := -2 * a^2 / (1 + nu) * ( (3 + nu) / 16 * q__0 + (4 + nu) / 45 * (q__1 - q__0) ) </Text-field>
 </Input>
 <Output><Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYnLUklbXN1YkdGJDYmLUkjbWlHRiQ2JVEiY0YnLyUnaXRhbGljR1EldHJ1ZUYnLyUsbWF0aHZhcmlhbnRHUSdpdGFsaWNGJy1GLzYlUSIyRidGMkY1LyUvc3Vic2NyaXB0c2hpZnRHUSIwRicvSSttc2VtYW50aWNzR0YkUSdhdG9taWNGJy1JI21vR0YkNi1RKSZBc3NpZ247RicvRjZRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0ZJLyUpc3RyZXRjaHlHRkkvJSpzeW1tZXRyaWNHRkkvJShsYXJnZW9wR0ZJLyUubW92YWJsZWxpbWl0c0dGSS8lJ2FjY2VudEdGSS8lJ2xzcGFjZUdRLDAuMjc3Nzc3OGVtRicvJSdyc3BhY2VHRlgtRkI2LVEqJnVtaW51czA7RidGRUZHRkpGTEZORlBGUkZUL0ZXUSwwLjIyMjIyMjJlbUYnL0ZaRmluLUkmbWZyYWNHRiQ2KC1GIzYqLUkjbW5HRiQ2JEY6RkUtRkI2LVExJkludmlzaWJsZVRpbWVzO0YnRkVGR0ZKRkxGTkZQRlJGVC9GV1EmMC4wZW1GJy9GWkZnby1JJW1zdXBHRiQ2JS1GLzYlUSJhRidGMkY1RmBvLyUxc3VwZXJzY3JpcHRzaGlmdEdGPUZjby1JKG1mZW5jZWRHRiQ2JC1GIzYmLUZhbzYkUSI0RidGRS1GQjYtUScmcGx1cztGJ0ZFRkdGSkZMRk5GUEZSRlRGaG5Gam4tRi82JVElJm51O0YnL0YzRklGRUZFRkVGY28tRiw2Ji1GLzYlUSJxRidGMkY1LUYvNiVRIjFGJ0YyRjVGO0Y+RkUtRiM2Ji1GYW82JFEjNDVGJ0ZFRmNvLUZicDYkLUYjNiYtRmFvNiRGZ3FGRUZpcEZccUZFRkVGRS8lLmxpbmV0aGlja25lc3NHRmdxLyUrZGVub21hbGlnbkdRJ2NlbnRlckYnLyUpbnVtYWxpZ25HRmdyLyUpYmV2ZWxsZWRHRklGRQ==">LV9JLFR5cGVzZXR0aW5nRzYkJSpwcm90ZWN0ZWRHSShfc3lzbGliRzYiSSxtcHJpbnRzbGFzaEdGKDYkNyM+SSVjX18yR0YoLCQqKkkiYUdGKCIiIywmIiIiRjNJI251R0YoRjMhIiIsJiIiJUYzRjRGM0YzSSVxX18xR0YoRjMjISIjIiNYNyNGLg==</Equation></Text-field>
 </Output>
 </Group>
-<Group hide-input="false" labelreference="L170" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Group hide-input="false" labelreference="L191" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">c__4 := a^4 / (1 + nu) * ( (5 + nu) / 64 * q__0 + (6 + nu) / 150 * (q__1 - q__0) ) </Text-field>
 </Input>
 <Output><Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYmLUklbXN1YkdGJDYmLUkjbWlHRiQ2JVEiY0YnLyUnaXRhbGljR1EldHJ1ZUYnLyUsbWF0aHZhcmlhbnRHUSdpdGFsaWNGJy1GLzYlUSI0RidGMkY1LyUvc3Vic2NyaXB0c2hpZnRHUSIwRicvSSttc2VtYW50aWNzR0YkUSdhdG9taWNGJy1JI21vR0YkNi1RKSZBc3NpZ247RicvRjZRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0ZJLyUpc3RyZXRjaHlHRkkvJSpzeW1tZXRyaWNHRkkvJShsYXJnZW9wR0ZJLyUubW92YWJsZWxpbWl0c0dGSS8lJ2FjY2VudEdGSS8lJ2xzcGFjZUdRLDAuMjc3Nzc3OGVtRicvJSdyc3BhY2VHRlgtSSZtZnJhY0dGJDYoLUYjNigtSSVtc3VwR0YkNiUtRi82JVEiYUYnRjJGNS1JI21uR0YkNiRGOkZFLyUxc3VwZXJzY3JpcHRzaGlmdEdGPS1GQjYtUTEmSW52aXNpYmxlVGltZXM7RidGRUZHRkpGTEZORlBGUkZUL0ZXUSYwLjBlbUYnL0ZaRmlvLUkobWZlbmNlZEdGJDYkLUYjNiYtRmFvNiRRIjZGJ0ZFLUZCNi1RJyZwbHVzO0YnRkVGR0ZKRkxGTkZQRlJGVC9GV1EsMC4yMjIyMjIyZW1GJy9GWkZncC1GLzYlUSUmbnU7RicvRjNGSUZFRkVGRUZlby1GLDYmLUYvNiVRInFGJ0YyRjUtRi82JVEiMUYnRjJGNUY7Rj5GRS1GIzYmLUZhbzYkUSQxNTBGJ0ZFRmVvLUZccDYkLUYjNiYtRmFvNiRGZHFGRUZjcEZpcEZFRkVGRS8lLmxpbmV0aGlja25lc3NHRmRxLyUrZGVub21hbGlnbkdRJ2NlbnRlckYnLyUpbnVtYWxpZ25HRmRyLyUpYmV2ZWxsZWRHRklGRQ==">LV9JLFR5cGVzZXR0aW5nRzYkJSpwcm90ZWN0ZWRHSShfc3lzbGliRzYiSSxtcHJpbnRzbGFzaEdGKDYkNyM+SSVjX180R0YoLCQqKkkiYUdGKCIiJSwmIiIiRjNJI251R0YoRjMhIiIsJiIiJ0YzRjRGM0YzSSVxX18xR0YoRjMjRjMiJF0iNyNGLg==</Equation></Text-field>
 </Output>
 </Group>
-<Group hide-input="false" labelreference="L171" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal">due to the absence of point load we can use eq(5.3.34) and eq(5.3.35) for w__max and M__max</Text-field><Text-field prompt="&gt; " style="Maple Input" layout="Normal">w__max := c__4 / d</Text-field>
+<Group hide-input="false" labelreference="L190" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input><Text-field style="Text" layout="Normal">Due to the absence of point load we can use eq(5.3.34) and eq(5.3.35) for w__max and M__max</Text-field><Text-field prompt="&gt; " style="Maple Input" layout="Normal">w__max := c__4 / d</Text-field>
 </Input>
 <Output><Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYmLUklbXN1YkdGJDYmLUkjbWlHRiQ2JVEid0YnLyUnaXRhbGljR1EldHJ1ZUYnLyUsbWF0aHZhcmlhbnRHUSdpdGFsaWNGJy1GLzYlUSRtYXhGJy9GM1EmZmFsc2VGJy9GNlEnbm9ybWFsRicvJS9zdWJzY3JpcHRzaGlmdEdRIjBGJy9JK21zZW1hbnRpY3NHRiRRJ2F0b21pY0YnLUkjbW9HRiQ2LVEpJkFzc2lnbjtGJ0Y9LyUmZmVuY2VHRjwvJSpzZXBhcmF0b3JHRjwvJSlzdHJldGNoeUdGPC8lKnN5bW1ldHJpY0dGPC8lKGxhcmdlb3BHRjwvJS5tb3ZhYmxlbGltaXRzR0Y8LyUnYWNjZW50R0Y8LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGWS1JJm1mcmFjR0YkNigtRiM2KC1JJW1zdXBHRiQ2JS1GLzYlUSJhRidGMkY1LUkjbW5HRiQ2JFEiNEYnRj0vJTFzdXBlcnNjcmlwdHNoaWZ0R0ZBLUZGNi1RMSZJbnZpc2libGVUaW1lcztGJ0Y9RklGS0ZNRk9GUUZTRlUvRlhRJjAuMGVtRicvRmVuRltwLUkobWZlbmNlZEdGJDYkLUYjNiYtRmJvNiRRIjZGJ0Y9LUZGNi1RJyZwbHVzO0YnRj1GSUZLRk1GT0ZRRlNGVS9GWFEsMC4yMjIyMjIyZW1GJy9GZW5GaXAtRi82JVElJm51O0YnRjtGPUY9Rj1GZ28tRiw2Ji1GLzYlUSJxRidGMkY1LUYvNiVRIjFGJ0YyRjVGP0ZCRj0tRiM2KC1GYm82JFEkMTUwRidGPUZnby1GXnA2JC1GIzYmLUZibzYkRmVxRj1GZXBGW3FGPUY9RmdvLUYvNiVRImRGJ0YyRjVGPS8lLmxpbmV0aGlja25lc3NHRmVxLyUrZGVub21hbGlnbkdRJ2NlbnRlckYnLyUpbnVtYWxpZ25HRmhyLyUpYmV2ZWxsZWRHRjxGPQ==">LV9JLFR5cGVzZXR0aW5nRzYkJSpwcm90ZWN0ZWRHSShfc3lzbGliRzYiSSxtcHJpbnRzbGFzaEdGKDYkNyM+SSd3X19tYXhHRigsJCosSSJhR0YoIiIlLCYiIiJGM0kjbnVHRihGMyEiIiwmIiInRjNGNEYzRjNJJXFfXzFHRihGM0kiZEdGKEY1I0YzIiRdIjcjRi4=</Equation></Text-field>
 </Output>
 </Group>
-<Group hide-input="false" labelreference="L172" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Group hide-input="false" labelreference="L184" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal">M__max := -(1 + nu) / 2 * c__2</Text-field>
 </Input>
 <Output><Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYmLUklbXN1YkdGJDYmLUkjbWlHRiQ2JVEiTUYnLyUnaXRhbGljR1EldHJ1ZUYnLyUsbWF0aHZhcmlhbnRHUSdpdGFsaWNGJy1GLzYlUSRtYXhGJy9GM1EmZmFsc2VGJy9GNlEnbm9ybWFsRicvJS9zdWJzY3JpcHRzaGlmdEdRIjBGJy9JK21zZW1hbnRpY3NHRiRRJ2F0b21pY0YnLUkjbW9HRiQ2LVEpJkFzc2lnbjtGJ0Y9LyUmZmVuY2VHRjwvJSpzZXBhcmF0b3JHRjwvJSlzdHJldGNoeUdGPC8lKnN5bW1ldHJpY0dGPC8lKGxhcmdlb3BHRjwvJS5tb3ZhYmxlbGltaXRzR0Y8LyUnYWNjZW50R0Y8LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGWS1JJm1mcmFjR0YkNigtRiM2KC1JJW1zdXBHRiQ2JS1GLzYlUSJhRidGMkY1LUkjbW5HRiQ2JFEiMkYnRj0vJTFzdXBlcnNjcmlwdHNoaWZ0R0ZBLUZGNi1RMSZJbnZpc2libGVUaW1lcztGJ0Y9RklGS0ZNRk9GUUZTRlUvRlhRJjAuMGVtRicvRmVuRltwLUkobWZlbmNlZEdGJDYkLUYjNiYtRmJvNiRRIjRGJ0Y9LUZGNi1RJyZwbHVzO0YnRj1GSUZLRk1GT0ZRRlNGVS9GWFEsMC4yMjIyMjIyZW1GJy9GZW5GaXAtRi82JVElJm51O0YnRjtGPUY9Rj1GZ28tRiw2Ji1GLzYlUSJxRidGMkY1LUYvNiVRIjFGJ0YyRjVGP0ZCRj0tRmJvNiRRIzQ1RidGPS8lLmxpbmV0aGlja25lc3NHRmVxLyUrZGVub21hbGlnbkdRJ2NlbnRlckYnLyUpbnVtYWxpZ25HRl1yLyUpYmV2ZWxsZWRHRjxGPQ==">LV9JLFR5cGVzZXR0aW5nRzYkJSpwcm90ZWN0ZWRHSShfc3lzbGliRzYiSSxtcHJpbnRzbGFzaEdGKDYkNyM+SSdNX19tYXhHRigsJCooSSJhR0YoIiIjLCYiIiUiIiJJI251R0YoRjRGNEklcV9fMUdGKEY0I0Y0IiNYNyNGLg==</Equation></Text-field>
 </Output>
 </Group>
-<Group labelreference="L173" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Group labelreference="L183" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input><Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
 </Input>
 </Group>
